@@ -2,6 +2,13 @@
 
 > This is a simple app created with Svelte, study purposes only.
 
+# Study topics
+
+- Svelte
+- Svelte stores
+- Each Block
+- Dealing with forms
+
 ## Get started
 
 Install the dependencies...
