@@ -7,7 +7,7 @@
 Install the dependencies...
 
 ```bash
-cd svelte-github-search
+cd github-search-svelte
 npm install
 ```
 
