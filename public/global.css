@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: rgb(35, 44, 61);
+	font-size: 14px;
+	color: #FFF;
+	font-family: Roboto, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	height: 100%;
+}
+
+button {
+	cursor: pointer;
+}
